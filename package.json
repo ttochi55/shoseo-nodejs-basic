@@ -1,0 +1,32 @@
+{
+  "name": "node-basic-2020",
+  "version": "1.0.0",
+  "description": "NodeJs 강좌",
+  "main": "01.helloWorld.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ttochi55/Node-Basic-2020.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ttochi55/Node-Basic-2020/issues"
+  },
+  "homepage": "https://github.com/ttochi55/Node-Basic-2020#readme",
+  "dependencies": {
+    "async": "^3.2.0",
+    "fs": "0.0.1-security",
+    "moment": "^2.28.0",
+    "moment-timezone": "^0.5.31",
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {
+    "eslint": "^7.9.0",
+    "eslint-config-prettier": "^6.11.0",
+    "eslint-plugin-prettier": "^3.1.4",
+    "prettier": "2.1.2"
+  }
+}
